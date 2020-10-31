@@ -1,0 +1,7 @@
+Financial Analysis
+*************
+Total Months: 86
+Total Sales): $38382578
+Average Net Change: $-2315.12
+Greatest Increase in Profits: [Period('2012-02', 'M')] 1926159.0
+Greatest Decrease in Profits: [Period('2013-09', 'M')] -2196167.0
